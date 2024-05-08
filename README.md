@@ -19,3 +19,5 @@ However, you encountered some issues, likely because the container had already t
 
  
       docker cp playwright-tests:/app/playwright-report .
+
+![image](https://github.com/amikha33/dockerized-playwright/assets/46167070/fb5cee93-ab16-48eb-b4f8-489a334eeeb9)
